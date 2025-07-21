@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=ehmicky&project=human-signals&lang=id">Bahasa Indonesia</a>
+      </div>
+    </div>
+  </details>
+</div>
+
 [![Node](https://img.shields.io/badge/-Node.js-808080?logo=node.js&colorA=404040&logoColor=66cc33)](https://www.npmjs.com/package/human-signals)
 [![TypeScript](https://img.shields.io/badge/-Typed-808080?logo=typescript&colorA=404040&logoColor=0096ff)](/src/main.d.ts)
 [![Codecov](https://img.shields.io/badge/-Tested%20100%25-808080?logo=codecov&colorA=404040)](https://codecov.io/gh/ehmicky/human-signals)
